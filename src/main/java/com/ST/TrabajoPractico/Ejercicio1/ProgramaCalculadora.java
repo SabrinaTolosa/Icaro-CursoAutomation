@@ -12,7 +12,7 @@ public class ProgramaCalculadora {
         Scanner teclado = new Scanner(System.in);
         Calculadora calculadora=new Calculadora();
 
-        for(int i=0; i<6;i++){
+        for(int i=0; i<5;i++){
 
             System.out.println("Ingrese el primer número: ");
             num1 = teclado.nextInt();
